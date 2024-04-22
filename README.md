@@ -1,4 +1,5 @@
 # dbms
+##EXP_1 && EXP_2 are on base of ER/EER 
 
 #EXP_DOC 
 
